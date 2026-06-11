@@ -10,3 +10,9 @@
 [submodule "packages/nomad-simulations"]
 	path = packages/nomad-simulations
 	url = https://github.com/FAIRmat-NFDI/nomad-simulations.git
+[submodule "packages/nomad-nmr-schema"]
+	path = packages/nomad-nmr-schema
+	url = https://github.com/FAIRmat-NFDI/nomad-schema-plugin-nmr.git
+[submodule "packages/nomad-test-entries-topology"]
+	path = packages/nomad-test-entries-topology
+	url = https://github.com/EBB2675/nomad-test-entries-topology.git
